@@ -1,0 +1,6 @@
+{
+  "extends": "react-app",
+  "rules": {
+    "constructor-super": "error"
+  }
+}
