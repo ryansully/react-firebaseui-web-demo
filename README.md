@@ -21,6 +21,7 @@ Run:
 ```bash
 git clone https://github.com/ryansully/react-firebaseui-web-demo.git
 cd react-firebaseui-web-demo
+npm install
 ```
 
 This will clone the repository in the current directory.
